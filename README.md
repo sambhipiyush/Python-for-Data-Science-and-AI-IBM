@@ -10,30 +10,30 @@
 
 This introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.
 
-Module 1 - Python Basics
-o   Your first program
-o   Types
-o   Expressions and Variables
-o   String Operations
+* Module 1 - Python Basics
+    * Your first program
+    * Types
+    * Expressions and Variables
+    * String Operations
 
-Module 2 - Python Data Structures
-o   Lists and Tuples
-o   Sets
-o   Dictionaries
+* Module 2 - Python Data Structures
+    * Lists and Tuples
+    * Sets
+    * Dictionaries
 
-Module 3 - Python Programming Fundamentals
-o   Conditions and Branching
-o   Loops
-o   Functions
-o   Objects and Classes
+* Module 3 - Python Programming Fundamentals
+    * Conditions and Branching
+    * Loops
+    * Functions
+    * Objects and Classes
 
-Module 4 - Working with Data in Python
-o   Reading files with open
-o   Writing files with open
-o   Loading data with Pandas
-o   Numpy 
+* Module 4 - Working with Data in Python
+    * Reading files with open
+    * Writing files with open
+    * Loading data with Pandas
+    * Numpy 
 
-Finally, you will create a project to test your skills.
+**Finally, you will create a project to test your skills.**
 
 ## Syllabus
 
@@ -48,7 +48,7 @@ Finally, you will create a project to test your skills.
 
 **Graded:** Types\
 **Graded:** Expressions and Variables\
-**Graded:** String Operations\
+**Graded:** String Operations
 
 ### WEEK 2
 
@@ -61,7 +61,7 @@ Finally, you will create a project to test your skills.
 
 **Graded:** List and Tuples\
 **Graded:** Dictionaries\
-**Graded:** Sets\
+**Graded:** Sets
 
 ### WEEK 3
 
@@ -76,7 +76,7 @@ Finally, you will create a project to test your skills.
 **Graded:** Conditions and Branching\
 **Graded:** Loops\
 **Graded:** Functions\
-**Graded:** Objects and Classes\
+**Graded:** Objects and Classes
 
 ### WEEK 4
 
@@ -92,7 +92,7 @@ Finally, you will create a project to test your skills.
 **Graded:** Writing files with open\
 **Graded:** Pandas\
 **Graded:** One Dimensional Numpy\
-**Graded:** Two Dimensional Numpy\
+**Graded:** Two Dimensional Numpy
 
 ### WEEK 5
 
@@ -101,9 +101,10 @@ Finally, you will create a project to test your skills.
 * **Key Concepts**
     * Create a dashboard that shows key economic indicators from a specific data set.
 
-**Graded:** Analyzing US Economic Data and Building a Dashboard\
+**Graded:** Analyzing US Economic Data and Building a Dashboard
 
-
+#
+#
 This course is part of the **IBM Data Science Professional Certificate**\
 ![IBM](https://i.imgur.com/j6yW3WS.png)
 
